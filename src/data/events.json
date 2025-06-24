@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Meeting",
+    "date": "2025-06-24",
+    "time": "10:00",
+    "duration": "1h",
+    "color": "bg-green-300"
+  },
+  {
+    "title": "Doctor",
+    "date": "2025-06-24",
+    "time": "15:00",
+    "duration": "30m",
+    "color": "bg-red-300"
+  }
+]
